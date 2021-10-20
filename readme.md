@@ -3,7 +3,7 @@
 ## What it is
 The classic game, reimagined in interactive HTML, CSS and Javascript.
 
-[Live Preview]()
+[Live Preview](https://nbrown0000.github.io/odin-project-rockpaperscissors/)
 
 ## Why do it
 Practice to improve Front-End skills.
